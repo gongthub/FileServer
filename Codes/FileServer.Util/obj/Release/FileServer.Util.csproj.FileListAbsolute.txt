@@ -1,0 +1,6 @@
+D:\WorkFile\FileServer\Codes\FileServer.Util\bin\Release\FileServer.Util.dll
+D:\WorkFile\FileServer\Codes\FileServer.Util\bin\Release\FileServer.Util.pdb
+D:\WorkFile\FileServer\Codes\FileServer.Util\bin\Release\BouncyCastle.Crypto.dll
+D:\WorkFile\FileServer\Codes\FileServer.Util\obj\Release\FileServer.Util.csprojResolveAssemblyReference.cache
+D:\WorkFile\FileServer\Codes\FileServer.Util\obj\Release\FileServer.Util.dll
+D:\WorkFile\FileServer\Codes\FileServer.Util\obj\Release\FileServer.Util.pdb
